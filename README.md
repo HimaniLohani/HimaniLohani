@@ -10,11 +10,11 @@
 
 ## 🙋‍♀️ About Me
 
-- 🎓 Currently pursuing my **Computer Science degree**
+- 🎓 Currently pursuing my **Btech**
 - 💻 Passionate about building **real-world web apps** and solving problems
 - 🔍 Actively looking for **internship opportunities** in software development
 - 🌱 Currently leveling up my skills in **React** and **backend development**
-- ⚡ Fun fact: I love turning ideas into working products!
+
 
 ---
 

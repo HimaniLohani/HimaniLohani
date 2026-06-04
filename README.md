@@ -60,19 +60,7 @@
 ### 📚 [Mission DSA](https://github.com/HimaniLohani/MISSION-DSA)
 > My ongoing journey through Data Structures & Algorithms in Java.
 
----
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Himani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HimaniLohani&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HimaniLohani&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 

@@ -10,7 +10,7 @@
 
 ## 🙋‍♀️ About Me
 
-- 🎓 Currently pursuing my **Btech**
+- 🎓 Currently pursuing my **Btech** in **Electronics and Communication Engineering**
 - 💻 Passionate about building **real-world web apps** and solving problems
 - 🔍 Actively looking for **internship opportunities** in software development
 - 🌱 Currently leveling up my skills in **React** and **backend development**

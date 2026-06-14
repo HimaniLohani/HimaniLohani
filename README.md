@@ -41,7 +41,7 @@
 ---
 
 ## 🚀 Featured Projects
-### [AyuRoute-AI Public]
+### [AyuRoute-AI Public](https://github.com/HimaniLohani/AyuRoute-AI)
 >Designing and developing a responsive Full-Stack healthcare application to triage patient symptoms into Low, Medium, and High-risk categories.
 >Configuring Geolocation APIs to fetch the user's real-location
 

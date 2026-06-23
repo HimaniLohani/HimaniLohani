@@ -81,6 +81,6 @@
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=HimaniLohani&color=blueviolet&style=flat-square)
+
 
 </div>

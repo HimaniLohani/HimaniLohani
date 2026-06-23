@@ -45,9 +45,6 @@
 >Designing and developing a responsive Full-Stack healthcare application to triage patient symptoms into Low, Medium, and High-risk categories.
 >Configuring Geolocation APIs to fetch the user's real-location
 
-### 🚑 [Ambulance Trekker](https://github.com/HimaniLohani/ambulance-trekker)
-> Emergency vehicle tracking application built with JavaScript. Helps track and manage ambulance routes in real time.
-
 ### 📊 [TrafficLens](https://github.com/HimaniLohani/TrafficLens)
 > Python-based traffic analysis and monitoring tool that provides insights from traffic data.
 
